@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fba3ffc7d57ea43b1a4aec1a175160, type: 3}
+  m_Name: InventoryStaticData
+  m_EditorClassIdentifier: 
+  <SelectSlotIcon>k__BackingField: {fileID: 21300000, guid: 8f3d00d0d837e52449221363286c5de9, type: 3}
+  <DeselectSlotIcon>k__BackingField: {fileID: 21300000, guid: 0a7367757cf7ce3448acf1151b31d813, type: 3}
+  <EmptyIcon>k__BackingField: {fileID: 21300000, guid: 2f9cc194bfec93349b09af3064c5188e, type: 3}
+  <InventorySlotsCount>k__BackingField: 3
+  <RefreshSlotPrefab>k__BackingField: {fileID: 7264026302665390789, guid: 5ea35a77a6ef8f941a23bbad7a6a5174, type: 3}
+  <FirearmSlotPrefab>k__BackingField: {fileID: 5772425769524091792, guid: 82d9970bd8eb72944803150b33b6be57, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 359b484b6e5067f49860423cfa0bf237, type: 3}
+  m_Name: PlayerStaticData
+  m_EditorClassIdentifier: 
+  <PlayerPrefab>k__BackingField: {fileID: 7651905456551963497, guid: a0bb45a4a94b265469c1197612b6b18b, type: 3}
+  <StartHealth>k__BackingField: 20
+  <JumpForce>k__BackingField: 6
+  <Speed>k__BackingField: 2
+  <SprintSpeed>k__BackingField: 4
+  <ConstantForceY>k__BackingField: -10

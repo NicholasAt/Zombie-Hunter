@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74a9bc9fd2e863b4ba037fcb31d1a569, type: 3}
+  m_Name: WindowStaticData
+  m_EditorClassIdentifier: 
+  <UIRoot>k__BackingField: {fileID: 5489003095381707259, guid: 31f1dabd1734f39439ed38b1b878ba19, type: 3}
+  Configs:
+  - _inspectorName: Inventory
+    <WindowId>k__BackingField: 1
+    <Template>k__BackingField: {fileID: 6172350313547921321, guid: 2bfe6a9d2a6a1bf4f823ef30f016438b, type: 3}
+  - _inspectorName: Lose
+    <WindowId>k__BackingField: 2
+    <Template>k__BackingField: {fileID: 3331413958999871743, guid: ec170b536f71ce4419cd0ca66e42e9ae, type: 3}
+  - _inspectorName: Win
+    <WindowId>k__BackingField: 3
+    <Template>k__BackingField: {fileID: 3916094183850961598, guid: 7535c38238f986c48bc9f0937fcf88fc, type: 3}
+  - _inspectorName: HUD
+    <WindowId>k__BackingField: 4
+    <Template>k__BackingField: {fileID: 5755904238227788032, guid: 616fbe542a2c26045b7145a07c64229e, type: 3}
+  - _inspectorName: MainMenu
+    <WindowId>k__BackingField: 5
+    <Template>k__BackingField: {fileID: 8989384305613553008, guid: 6ab348d3c8f9fa046b30ad3c144e81c3, type: 3}
